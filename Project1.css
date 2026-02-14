@@ -1,0 +1,40 @@
+*{
+            box-sizing: border-box;
+        }
+        body{
+            background-image:url(../images/kezarLake.JPG);
+            background-size: cover;
+            background-attachment: fixed;
+        }
+        main{
+            width:600px;
+            margin: 75px auto;
+            background-color:#ffa3ed;
+            padding: 50px;
+            border: 5px solid #ffcff6;
+        }
+        header{
+            background-color: hsl(306, 100%, 96%);
+            padding: 20px;
+            margin: 20px;
+            border: 5px solid #ffa7e6;
+        }
+        section{
+            background-color: #83a8d4;
+            padding: 20px;
+            margin: 20px;
+            border: 5px solid #f9f1f0;
+        }
+        h1, h3{
+            color:#6c014f;
+            text-align: center;
+            text-transform: uppercase;
+        }
+        h3{
+            letter-spacing: .2em;
+        }
+
+        p{
+            color:#2874a6;
+        }
+        

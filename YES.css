@@ -1,0 +1,35 @@
+*{
+            box-sizing: border-box;
+        }
+        body{
+            background-image:url(../images/kezarLake.JPG);
+            background-size: cover;
+            background-attachment: fixed;
+        }
+    
+        
+        header{
+            background-color: hsl(352, 100%, 37%);
+            padding: 20px;
+            margin: 20px;
+            border: 5px solid #94001c;
+        }
+        section{
+            background-color: #ff8484;
+            padding: 20px;
+            margin: 20px;
+            border: 5px solid #ff264a;
+        }
+        h1, h3{
+            color:#6c0101;
+            text-align: center;
+            text-transform: uppercase;
+        }
+        h3{
+            letter-spacing: .2em;
+        }
+
+        p{
+            color:#2874a6;
+        }
+        
